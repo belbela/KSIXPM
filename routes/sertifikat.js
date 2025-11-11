@@ -1,1 +1,0 @@
-// berlian sertifikat route
